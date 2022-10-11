@@ -31,6 +31,8 @@ namespace ORM_Dapper
             //    Console.WriteLine();
             //}
 
+            //departmentRepo.InsertDepartment("NEW DEPARTMENT NAME");
+
             #endregion
 
 
